@@ -39,8 +39,6 @@
         </li>
       </ul>
     </div>
-
-    
   </div>
 </template>
 
@@ -86,7 +84,7 @@
   }
 </script>
 
-<style scoped lang="scss">
+<style lang="scss">
   .search {
     display: flex;
     flex-direction: column;

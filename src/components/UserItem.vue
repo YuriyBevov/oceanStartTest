@@ -31,7 +31,7 @@
     }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
     .user-item {
         display: flex;
         align-items: center;

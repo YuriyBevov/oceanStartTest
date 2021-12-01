@@ -9,7 +9,7 @@
         name: "Loader",
 
         props: {
-            loadingState: {type: Boolean, default: true }
+            loadingState: { type: Boolean, default: false }
         },
     }
 </script>
